@@ -1,0 +1,24 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/poster.png",
+            "title": "Personal Portfolio",
+            "bodyText": "- Personal Portfolio Website made in React\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/imsoumya18/imsoumya18.github.io"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://imsoumya18.github.io"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        }
+    ]
+}

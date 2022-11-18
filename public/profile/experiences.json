@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Python Developer",
+            "subtitle": "Upwork",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed **web scraping, browser automation bots.**",
+                "Worked on **Data crawling and analysis** project.",
+                "**Skills:** Selenium, BeautifulSoup, Pandas, NumPy, Git"
+            ],
+            "dateText": "06/2020 - Present"
+        }
+    ]
+}

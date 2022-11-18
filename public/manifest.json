@@ -1,0 +1,15 @@
+{
+  "short_name": "Soumyadeep Biswas",
+  "name": "Soumyadeep Biswas - Portfolio",
+  "icons": [
+    {
+      "src": "images/profile.png",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
