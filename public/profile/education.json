@@ -4,7 +4,7 @@
             "title": "July 2019 - June 2023",
             "cardTitle": "B.Tech, Computer Science",
             "cardSubtitle":"Indian Institute of Engineering Science & Technology (IIEST), Shibpur",
-            "cardDetailedText": "CGPA - 8.04",
+            // "cardDetailedText": "CGPA - 8.04",
             "icon" : {
                 "src": "images/education/iiest.png"
             }
@@ -13,7 +13,7 @@
             "title": "February 2011 - May 2019",
             "cardTitle": "High School",
             "cardSubtitle":"Bhatpara Amarkrishna Pathsala (H.S.)",
-            "cardDetailedText": "XII - 81.6, X - 92.14%",
+            // "cardDetailedText": "XII - 81.6, X - 92.14%",
             "icon" : {
                 "src": "images/education/bakp.png"
             }
